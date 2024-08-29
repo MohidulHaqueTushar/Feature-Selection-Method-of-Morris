@@ -10,4 +10,4 @@ the most).
 Morris's method applies to three simulation model parameters (productivity_growth, interest_rate, employment_rate_initial). A function
 `goodness_euclidian` is defined to determine the goodness. The impact of different parameters is calculated by using the goodness values.
 
-Please take a look at the pdf `Feature_Selection_Method_of_Morris` for more information.
+Please take a look at the pdf [Feature_Selection_Method_of_Morris](https://github.com/MohidulHaqueTushar/Feature-Selection-Method-of-Morris/blob/main/Feature_Selection_%20Method_of_Morris.pdf) for more information.
